@@ -1,0 +1,13 @@
+This is the the Multi-domain Arabic Sentiment Corpus (MASC) corpus.
+
+This corpus contains two main parts:
+
+1- MASC corpus, which is a customer reviews from different Arabic review websites were manually collected for primary source material. They were mainly collected from the Jeeran web site (http://www.jeeran.com/), the Qaym web site (http://www.qaym.com/), Google Play, Twitter and Facebook. Two native speakers were trained to label these reviews by positive and negative reviews. Non-Arabic reviews were initially excluded. MASC data sets set were sourced from reviews in 15 different domains: Art and Culture, Bakeries and Goodies, Cafes, Fashion, Financial Services, Hotels, Restaurants, Shopping, Travel and Tourism, Doctors, Education, Entertainment, Health Care, the political domain and software applications. Each domain category contained positive and negative reviews.  Moreover, each domain category contained positive and negative reviews written in different Arabic dialects. The total number of reviews in the corpus is 8,860. Each review consisted of the text of the review and Meta information. Meta information contains the review ID, domain, country of the reviewer and the review polarity.
+
+2- In addition to MASC corpus we share the Arabic Senti-Lexicon that has been generated and created. 
+
+The details of both MASC and Arabic Senti-Lexicon can be found in our publication titled "Arabic Senti-Lexicon: Constructing Publicly Available Language Resources for Arabic Sentiment Analysis".
+
+If you use any of the aforementioned corpus, please cite our paper "Arabic Senti-Lexicon: Constructing Publicly Available Language Resources for Arabic Sentiment Analysis" published by Journal of Information Science.
+
+
